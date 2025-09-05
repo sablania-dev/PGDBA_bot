@@ -54,13 +54,7 @@ PGDBA_bot/
           export GEMINI_API_KEY="<your-gemini-api-key>"
           ```
        Replace `<your-telegram-token>` and `<your-gemini-api-key>` with your actual keys.
-4. **Prepare context**
-   - Edit `data/context_document.txt` with your FAQ/context.
-   - Run the index builder:
-     ```powershell
-     python build_index.py
-     ```
-5. **Run the Telegram bot**
+4. **Run the Telegram bot**
    ```powershell
    python -m bot.telegram_bot
    ```
