@@ -85,7 +85,7 @@ frontend/*.js.map
 frontend/node_modules/
 
 # Ignore secrets
-config.py
+
 
 # Ignore test cache
 *.pytest_cache/
