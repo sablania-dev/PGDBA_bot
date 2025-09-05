@@ -42,7 +42,18 @@ PGDBA_bot/
    ```
 3. **Configure API keys**
    - Edit `config.py` with your Telegram, OpenAI, and Gemini API keys.
-   - _Do not commit your `config.py`!_
+    - Set Telegram and Gemini API Keys as environment variables:
+       - **Windows (PowerShell):**
+          ```powershell
+          $env:TELEGRAM_TOKEN="<your-telegram-token>"
+          $env:GEMINI_API_KEY="<your-gemini-api-key>"
+          ```
+       - **Linux/macOS (bash):**
+          ```bash
+          export TELEGRAM_TOKEN="<your-telegram-token>"
+          export GEMINI_API_KEY="<your-gemini-api-key>"
+          ```
+       Replace `<your-telegram-token>` and `<your-gemini-api-key>` with your actual keys.
 4. **Prepare context**
    - Edit `data/context_document.txt` with your FAQ/context.
    - Run the index builder:
@@ -68,6 +79,7 @@ PGDBA_bot/
 
 ## Credits
 - Built with [sentence-transformers](https://www.sbert.net/), [FAISS](https://github.com/facebookresearch/faiss), [python-telegram-bot](https://python-telegram-bot.org/), [Google Generative AI](https://ai.google.dev/), and [OpenAI](https://openai.com/).
+- Developed by Sarthak Sablania, PGDBA Batch-10 (2024-26)
 
 ---
 
