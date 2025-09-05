@@ -1,0 +1,168 @@
+About PGDBA
+The Post Graduate Diploma in Business Analytics (PGDBA) – jointly offered by IIM Calcutta, IIT Kharagpur, and ISI – aims to help shape the emerging profession of business analytics by delivering a cutting edge inter disciplinary educational experience to graduate applicants with an aspiration of building a career in this field. PGDBA is a two year full time residential diploma programme aimed at creating business analytics professionals employable by leading Indian and foreign firms. This programme is designed for those who have an analytical mindset, are interested in tackling challenging business problems, and possess an inclination towards mathematics. Some of the salient features of the programme include courses taught by reputed faculty members at the campuses of three globally renowned institutes, hands- on business analytics training at a related company, continuous interaction with industry leaders throughout the course of the diploma programme, and the availability of placement opportunities at all the three institutes jointly offering this programme.
+
+Eligibility for PGDBA
+Eligibility for PGDBA 2025 requires a graduate or postgraduate degree such as B.Tech., B.E., M.Sc., M.Com., or equivalent, with at least 60% marks or CGPA 6.5 on a 10-point scale (55% or CGPA 6.0 for SC/ST/PwD). Candidates with engineering diplomas (10+3+3), B.Sc. (10+2+4), or professional qualifications like CA/CS/ICWA are also eligible if they meet the minimum marks. Final-year students may apply provided they meet requirements by June 30, 2025, and submit results by December 1, 2025. There is no age limit for the exam. Candidates must submit marks as per their university norms; those in the final year should enter aggregate marks from the latest exam. For dual degree programs (B.Tech.+M.Tech., BS+MS, etc.), marks equivalent to the bachelor’s degree go under the bachelor’s section and the master’s under the master’s section.
+
+PGDBA Application
+The application fee is ₹2500, payable online via credit card, debit card, net banking, UPI, or wallets. However, it is ₹1250 for SC/ST/PwD candidates. Registration is open through the IIM-C PGDBA website. Candidates must carefully review details before submitting, as personal details like date of birth, email, and mobile number cannot be edited once submitted. If a mistake occurs, candidates must re-register with a new email ID. In case of website issues, applicants should retry with stable internet (preferably using Firefox or Chrome) and contact the Helpdesk if needed. If a password or login SMS is lost, use the “Forgot User ID/Password” option to regenerate credentials, which will be sent via email (not SMS).
+
+PGDBA Entrance Exam Details
+The list of exam cities will be published on the IIM-C PGDBA 2025 website before registration. Time slots for the exam will also be announced there. Candidates should check the website regularly for updates.
+
+PGDBA Admit Card
+Admit Cards will be available online on the IIM-C PGDBA website. They will not be sent by post or email, and must be downloaded using the registered User ID and password. If a candidate cannot access the admit card after logging in, they should contact the PGDBA Helpdesk at 022-61306267 or email pgdbahelpdesk.2025@iimcal.ac.in
+.
+
+PwD Candidates
+There are special provisions for candidates with disabilities. They should refer to the specific PwD FAQs for details.
+
+Helpdesk
+For admissions-related queries, candidates can contact (+91) 33-7121-1203/1204 between 9:30 AM and 5:30 PM, Monday to Friday, or email pgdbaadmissions@iimcal.ac.in
+For application portal-related queries, they can call (+91) 22-6130-6267 between 9:00 AM and 6:00 PM, Monday to Saturday, or email pgdbahelpdesk.2025@iimcal.ac.in
+
+PGDBA Documents required
+10th Board Certificate, 12th Board Certificate, Bachelor's Degree and Gradesheet, Master's Degree and Gradesheet (if applicable), Work-experience or Relieving letter (if applicable).
+Candidates belonging to SC/ST must upload certificates issued by a competent authority on or after April 1, 2024. Certificates must include caste name, caste number, ministry resolution/order number, and be in Hindi or English. Valid issuing authorities include district magistrates, deputy commissioners, and other designated officers. For NC-OBC certificates, candidates should check the validity period as per the Government of India’s Department of Personnel & Training. The list of competent authorities and formats can be found on the NCBC and DOPT websites. Candidates who have officially changed their name must enter the changed name in the application and provide supporting documents at the time of examination, interview, and admission.
+
+Batch Profile: Sex ratio, Freshers
+The batch profile varies every year. Usually the sex ratio is 90 males : 10 females, out of a batch of 60. There are roughly 10% freshers.
+
+PGDBA Program Schedule: These are the courses which the student will study once he or she clears the selection process and chooses to enroll in the course.
+Students will visit the three institutions – ISI, IIT Kharagpur and IIM Calcutta. Each of the three institutes will focus on a separate area of business analytics, in accordance with its expertise and competence. While coursework at IIM Calcutta will focus on the application of analytics in functional areas, ISI will bring to the table its expertise in statistical and machine learning theories for analytics, and faculty at IIT Kharagpur will engage with the technology aspects of analytics. In addition, the students will be required to do an internship of six months duration on an analytics project in a business organization. The programme being residential, each institute will make suitable arrangements for hostel accommodation for the students. Students successfully graduating from the programme will be expected to join organizations working in the area of analytics. Those interested in higher studies may pursue doctoral or other advanced studies in areas related to analytics.
+Academic Calendar – for the Year 2025 - 2026
+Schedule	Duration	Organizing Institute
+Orientation & Pre-semester: Teaching Term	July - August	IIM Calcutta
+Semester I: Teaching Term	August – December	ISI Kolkata
+Semester II: Teaching Term	January – April	IIT Kharagpur
+Semester III: Teaching Term	May – September	IIM Calcutta
+Semester IV: Internship based projects	October/November – March/April	Students are allotted one industry mentor and one institute mentor from any of the three institutions.
+
+PGDBA Selection Process: MCQ Exam, other components, Interview, Final Composite Score
+Shortlisting for Personal Interview (PI)
+Candidates will be shortlisted for Personal Interview based on their score in the PGDBA Admission Test 2024. For woman and transgender candidates, additional 2 marks will be awarded as the gender diversity score. This additional marks will NOT be considered for the final selection.
+Final selection to PGDBA Program
+A candidate's final score for selection is calculated on the basis of Table 1, which indicates the components and their weightage to be used for the final selection to PGDBA for the batch 2024-26
+Table 1
+Components and Weightage for Final Selection to PGDBA
+Components	Weightage
+PGDBA-2024 Admission Test Score	45
+Personal interview (PI)	40
+Points for Class XII marks (Details shown in Table 2)	08
+Work experience (Details shown in Table 3)	07
+Total	100
+The method of allotting points for Class XII marks is given in Table 2 below:
+Table 2
+Points for Class XII/ Engineering Diploma Results#
+Marks* (y in %)	CGPA$ (c)	Points
+y > 95	c > 9.5	8
+90 < y <= 95	9.0 < c <=9.5	7
+85 < y <= 90	8.5 < c <=9.0	6
+80 < y <= 85	8.0 < c <=8.5	5
+75 < y <= 80	7.5 < c <=8.0	4
+70 < y < =75	7.0 < c <=7.5	3
+65 <= y < = 70	6.5 < c <=7.0	2
+60 <= y < = 65	c =6.5	1
+y < 60	c < 6.5	0
+Engineering Diploma Results will be considered only for those candidates who have done Engineering Diploma after Class X.
+For computing the percentage of marks obtained in Class XII, the aggregate marks of all subjects that appear in the mark sheet or grade sheet would be considered irrespective of whether the Board considers them for calculation of percentage.
+If the CGPA is on a different scale than 10, the equivalent CGPA on a 10-point scale will be considered.
+For work experience, a maximum of seven points will be awarded based on the length of service, represented as x, (in completed months) as on 31st December 2023 as given in the Table 3. Only work experience after the completion of the qualifying degree will be considered. Internship/apprenticeship/articleship/training/project/work done as an integral part of curricular requirement or any type of unpaid work will not be considered. The work experience claimed by the candidate must be supported by a letter from the employer(s) with authorized signatory on company letterhead stating the start date, end date, position/designation, and a brief description of the role/responsibility. It is necessary to submit the payslip(s) from each employer(s). For self-employed and family businesses, proof of company registration/relevant licenses/taxes paid are to be furnished.
+Table 3
+Points for work experience in completed months
+Months(x)	Points
+x > 60	4
+48 < x <= 60	5
+36 < x <= 48	6
+24 < x <= 36	7
+12 < x <= 24	5
+6 < x <= 12	3
+0 < x <= 6	1
+x=0	0
+All of the above performance indicators shall be considered in order to arrive at the final merit list. Minimum qualification in accordance with the above-mentioned eligibility criteria would not automatically qualify the candidate for admission into PGDBA. Any suppression of fact or false information will lead to rejection of candidature at any stage of the selection process. Further, it is the responsibility of the candidate to ascertain that he/she satisfies the eligibility criteria. The offer/admission may be terminated at any time if it comes to the notice of PGDBA office that the candidate doesn't fulfil the eligibility criteria.
+
+PGDBA Exam Pattern 2025
+It will be helpful for the candidates in checking the PGDBA Exam Pattern, This section tells how the exam would be conducted and how many marks will be allotted for the subjects. The duration of the PGDBA test is 3 hours. There will be 50 Multiple-Choice Questions (MCQs) carrying 150 marks. For every correct answer, 3 marks will be awarded and for every incorrect answer, 1 mark will be deducted. The question paper divides into 5 subjects, where 15 questions will be asked on Verbal Ability, 5 questions on Logical Reasoning, 5 questions on Data Interpretation and Visualization, and 25 marks on Quantitative Aptitude.
+
+PGDBA Syllabus 2025
+Verbal Ability: Reading & Comprehension; Grammar/ correction of sentences.
+Logical Reasoning: Logical connectives, Statements, Conclusions, Matching, and sequences.
+Data Interpretation And Data Visualization: Data-driven questions (pie charts, graphs, trends).
+Quantitative Aptitude: Sets, combinatorics, Basic Probability Theory. Algebra (solutions of quadratic equations, inequalities, simultaneous linear equations, binomial theorem, series, AP, GP, HP, matrices), Euclidean geometry, Coordinate geometry (lines, circles, conic sections), Trigonometry (triangles, trigonometric identities, heights, and distances), Calculus (functions, limits, continuity, derivative, maxima & minima, methods of integration, evaluation of areas using integration).
+
+PGDBA Semester wise Program Schedule: These are the courses which the student will study once he or she clears the selection process and chooses to enroll in the course.
+PRE-SEMESTER – IIM Calcutta
+Sl. No.	Course Name	Course Type
+1	Marketing Management	Core
+2	Financial Reporting & Analysis	Core
+3	Contemporary Business Analytics	Core
+4	Organizational Behaviour	Core
+5	Managerial Communication	Core
+SEMESTER - I ISI
+Sl. No.	Course Name	Course Type
+1	Stochastic Processes and Applications	Core
+2	Statistical Structures in Data	Core
+3	Inference	Core
+4	Computing for Data Sciences	Core
+5	Fundamentals of Data Base Systems	Core
+SEMESTER – II IIT Kharagpur
+Sl. No.	Course Name	Course Type
+1	Modelling in Operations Management (Mom)	Core
+2	Regression and Time Series Models (Rtsm)	Core
+3	Foundations of Algorithm Design and Machine Learning (Fadml)	Core
+4	Data Science Laboratory (Dsl)	Core
+Elective
+5	Enabling Technologies for Data Analytics	Elective
+6	Information Retrieval	Elective
+7	Cloud Computing	Elective
+8	Complex Network	Elective
+9	Randomized Algorithm Design	Elective
+10	Optimization and Business Decision Analysis	Elective
+11	Analytics for Ventures / Venture Analytics	Elective
+12	Product Analytics	Elective
+13	Business Accounting and Banking Analytics	Elective
+14	Basics of Marketing Analytics	Elective
+15	Business Model Analytics	Elective
+16	Healthcare Analytics	Elective
+17	Supply Chain Analytics	Elective
+18	Ethical and Legal considerations in Business Analytics	Elective
+SEMESTER – III IIM Calcutta
+Sl. No.	Course Name	Course Type
+1	Categorical Data Analysis	Core
+2	Business Data Mining	Core
+3	Business Economics	Core
+4	Project Management	Core
+5	Strategic Management	Core
+6	Human Resource Management	Core
+7	Corporate Finance	Core
+Elective
+8	Selected Aspects of Advanced Predictive Modelling	Elective
+9	Econometric Methods With Applications in Business and Economics	Elective
+10	Financial Risk Management	Elective
+11	Computational Finance	Elective
+12	Games & Information	Elective
+13	Intercultural Business Communication	Elective
+14	Leading Professional Teams	Elective
+15	Causality in Statistical Learning for Business Applications	Elective
+SEMESTER – IV
+Sl. No.	Course Name	Course Type
+1	INDUSTRY INTERNSHIP[ Internship based Project ]	Compulsory
+
+Placement Statistics 2025
+COMPANY	#_OFFERS
+DE SHAW	8
+OLIVER WYMAN	5
+SUN PHARMA	5
+MASTERCARD	5
+QRT	4
+BCG	4
+JPMC	3
+LTFS	3
+AUXO AI	3
+SWIGGY	3
+PIRAMAL	3
+DECIMAL POINT	2
+KENVIEW	2
+P&G	2
+RENEW	1
+POLYCAB	1
