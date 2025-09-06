@@ -1,11 +1,19 @@
 import sys, os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+from flask import Flask, request
 from telegram import Update
-from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
+from telegram.ext import Application, MessageHandler, ContextTypes, filters
 from config import TELEGRAM_TOKEN, CONFIDENCE_THRESHOLD, TOP_K
 from bot.qa_engine import QABot
 
+import asyncio
+
+# Flask app
+app = Flask(__name__)
+
+# Telegram application
+application = Application.builder().token(TELEGRAM_TOKEN).build()
 qa = QABot()
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -35,10 +43,19 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if update.message and update.message.chat.type == "private":
             await update.message.reply_text("❌ Sorry, an error occurred. Please try again later.")
 
-def main():
-    app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
-    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-    app.run_polling()
+# Add handler
+application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+
+# Flask route for webhook
+@app.route("/webhook", methods=["POST"])
+def webhook():
+    try:
+        update = Update.de_json(request.get_json(force=True), application.bot)
+        asyncio.run(application.process_update(update))
+    except Exception as e:
+        print("Webhook error:", e)
+    return "OK", 200
 
 if __name__ == "__main__":
-    main()
+    port = int(os.environ.get("PORT", 10000))  # Render will set PORT
+    app.run(host="0.0.0.0", port=port)
