@@ -1,20 +1,19 @@
-import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
+from sklearn.metrics.pairwise import cosine_similarity
 import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import config
-from sklearn.metrics.pairwise import cosine_similarity
 
 
 class QABot:
     FINAL_PROMPT_TEMPLATE = (
-    "You are a PGDBA admissions FAQ assistant. "
-    "Only use the provided context to answer. "
+    "You are Kshitish The Chatbot, a PGDBA admissions FAQ assistant, made to help prospective students. Sarthak Sablania, PGDBA Batch-10 student, created you. "
+    "Try to use the provided context to answer as much as possible. You don't have to use all of it, just what seems relevant. "
     "If the context does not contain the answer, respond exactly with: 'I don't know based on the available context.'\n"
-    "User question: {user_query}\n\nContext:\n{context}"
+    "USER QUESTION: {user_query}\n\nCONTEXT:\n{context}"
     )
 
 
