@@ -1,8 +1,11 @@
 # config.py
 
 import os
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+# TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
+# GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+
+TELEGRAM_TOKEN = "8387721966:AAFHWvXNCxxrIlXUcyjjgJio1d28o9O5A9E"
+GEMINI_API_KEY = "AIzaSyBd-tc6Jg7iIqKyRxxAM9heaXcufLRev3k"
 
 # 🔹 Core Variables
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"  # Change to larger/more accurate models if needed
