@@ -8,3 +8,4 @@ openai
 urllib3
 google-generativeai
 google
+flask
