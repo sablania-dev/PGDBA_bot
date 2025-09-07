@@ -84,7 +84,7 @@ class QABot:
         print("[Gemini] Synthesizing answer with context:", context)
         return self._gemini_chat(messages, temperature=0.2, max_tokens=512)
 
-    def search(self, query, threshold=0.70, top_k=2):
+    def search(self, query, threshold=0.50, top_k=3):
         retrieved = self.retrieve_context(query, top_k=top_k)
 
         # Keep only those above threshold
